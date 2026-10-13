@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+Project_Notes.md
+Study_Guide.md
+Project_Explanation.docx
+*Interview_Prep*

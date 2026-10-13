@@ -1,0 +1,20 @@
+{
+  "im_a": 5894237.464274937,
+  "im_b": 14511252.637333322,
+  "total_im": 20405490.10160826,
+  "naive_cost": 918247.0545723716,
+  "optimized_cost": 31289.515565327194,
+  "saving": 886957.5390070444,
+  "saving_pct": 0.9659247308123425,
+  "shadow_price_a": 0.002551020408163265,
+  "shadow_price_b": 0.0025510204081632655,
+  "greedy_independent_lower_bound": 30762.045379308933,
+  "structured_im_a": 2281995.4095090777,
+  "structured_im_b": 4625665.176637864,
+  "structured_total_im": 6907660.586146941,
+  "cash_bug": {
+    "cash_posted": 15000000.0,
+    "total_posted": 20432653.36845051,
+    "cost": 8148.980052675768
+  }
+}
